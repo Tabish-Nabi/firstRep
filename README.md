@@ -1,2 +1,2 @@
 # firstRep
-this is the first re
+this is the first repository.. 
